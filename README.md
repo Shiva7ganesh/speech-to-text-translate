@@ -77,7 +77,7 @@ Visit [http://localhost:8080](http://localhost:8080) to use the app.
 ├── static/              # Uploaded audio files
 ├── templates/
 │   └── index.html       # Frontend UI
----
+```
 
 ## 📌 Example Use Case
 
@@ -92,9 +92,3 @@ Visit [http://localhost:8080](http://localhost:8080) to use the app.
 * 🔁 Add TTS (text-to-speech) for translated output
 * 🎛️ Language dropdown with ISO codes
 * 🌐 Deploy on Render/Streamlit/Hugging Face Spaces
-```
-
----
-
-Let me know if you want the screenshots auto-linked or a badge-based header (e.g., GitHub stars, license, etc.)!
-```
